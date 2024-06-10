@@ -1,3 +1,10 @@
 # Network-System-Administration
-1. [Administration Components](AC.md)
-2. [Namespaces](N.md) 
+## [Administration Components](AC.md)
+- 4 Key Entities of networking
+  - workstations
+  - servers
+  - services
+  - data centers
+
+## [Namespaces](N.md)
+- formal method of keeping names
