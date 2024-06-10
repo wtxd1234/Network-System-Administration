@@ -1,4 +1,10 @@
 # Naming
+## Questions
+- What names are/aren't permitted in a space?
+- How name are selected?
+- How collisions resolves?
+- When renaming is allowed?
+
 ## Selection
 - __Formulaic__ (eg. pc-networklab-01)
 - __Thematic__ (eg. servers as planets)
