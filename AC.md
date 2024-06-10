@@ -1,6 +1,6 @@
 # Administration Components
 ## Key Entities
-1. Workstations
-2. Servers
-3. Services
-4. Data Centers
+1. [Workstations](workstation.md)
+2. [Servers](servers.md)
+3. [Services](services.md)
+4. [Data Centers](data_centers.md)
