@@ -7,3 +7,4 @@
 
 ## Structure
 1. [Risk Analysis](riskAnalysis.md)
+2. [Legal Obligations 法律义务](legalObligations.md)
