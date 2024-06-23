@@ -8,9 +8,11 @@
 
 ## Formula
 ```
-                Budget for Risk Mitigation
-                            =
-(Cost of Disaster - Cost After Mitigation) * Risk of Disaster
+Budget for Risk Mitigation
+=
+(Cost of Disaster - Cost After Mitigation)
+*
+Risk of Disaster
 ```
 
 ## Example 
