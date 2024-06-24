@@ -30,5 +30,11 @@ Budget for Risk Mitigation
 = $20,000
 ```
 
-3. a large site that has a single point of failure whereby all LANs are tied together by one large router. If it died, it would take one day to repair, and there is a 70 percent chance that failure will occur once every 24 months. The outage would cause 1,000 people to be unable to work for a day. The company estimates the loss of productivity to be $68,000. When the SAs go looking for redundancy for the router, the budget is approximately $23,800.
+3. a large site that has a single point of failure whereby all LANs are tied together by one large router. If it died, it would take one day to repair, and there is a `70 percent chance that failure will occur once every 24 months`. The outage would cause 1,000 people to be unable to work for a day. The company estimates the loss of productivity to be `$68,000`. When the SAs go looking for redundancy for the router, the budget is approximately `$23,800`.
+```
+# 1/24 months = 1/2 years
 
+Budget for Risk Mitigation
+= (1/2 * 0.7) * $68,000
+= $23,800
+```
