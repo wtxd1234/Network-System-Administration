@@ -12,3 +12,6 @@ The 7 OSI Layers, centralization/decentralization, remote access
 basics, storage, management, large repositories
 
 ## [Disaster Recovery](DR.md)
+types and ways to prevent disasters
+
+## [Security Policy](SP.md)
