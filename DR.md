@@ -9,3 +9,5 @@
 1. [Risk Analysis](riskAnalysis.md)
 2. [Legal Obligations 法律义务](legalObligations.md)
 3. [Damage Limitation](damageLimitation.md)
+4. [Preparation](preparation.md)
+5. [Data Integrity](dataIntegrity.md)
