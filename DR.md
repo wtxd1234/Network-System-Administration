@@ -11,3 +11,5 @@
 3. [Damage Limitation](damageLimitation.md)
 4. [Preparation](preparation.md)
 5. [Data Integrity](dataIntegrity.md)
+6. [Redundant Sites](redundantSites.md)
+7. [Security Disasters](securityDisasters.md)
