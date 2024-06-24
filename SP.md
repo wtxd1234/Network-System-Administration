@@ -27,3 +27,9 @@
   2. PIN/Asynchronous
   3. Synchronous
   4. PIN/Synchronous
+
+## Authentication & Authorization
+- Authentication: give identity
+- Authorization: determine what that person can do
+- role account: give privileges to perform one or more functions that cannot be performed with normal account privileges
+- shared account should be avoid
